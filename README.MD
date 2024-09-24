@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Project name 💻</h1>
+<h1 align="center" style="font-weight: bold;">Project Pizzaria 💻</h1>
 
 <p align="center">
     <b>Projeto simples para compra de pizza</b>
